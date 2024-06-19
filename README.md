@@ -3,10 +3,10 @@
 Empower your productivity with our intuitive Employee management app, facilitating seamless creation, updating, and deletion of tasks for efficient organization. 
 
 # Frontend Deployed Link
- [Live]()
+ [Live](https://dealsdray-three.vercel.app/)
 
 # Backend Deployed Link
- [Live]()
+ [Live](https://dealsdrayonlineapi.onrender.com/)
 
  # Video Link
  [Video](https://drive.google.com/file/d/1_pEOMfZzFuq5_9guYdDT1sMMFIKdZm5J/view?usp=sharing)
