@@ -65,7 +65,7 @@ npm install
 ```
 run project
 ```
-npm run dev
+npm run start
 ```
 - For backend
 ```bash
