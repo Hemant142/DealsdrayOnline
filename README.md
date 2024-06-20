@@ -9,7 +9,7 @@ Empower your productivity with our intuitive Employee management app, facilitati
  [Live](https://dealsdrayonlineapi.onrender.com/)
 
  # Video Link
- [Video](https://drive.google.com/file/d/1_pEOMfZzFuq5_9guYdDT1sMMFIKdZm5J/view?usp=sharing)
+ [Video](https://drive.google.com/file/d/1faCLV096U6avt1ottNNsoFwc25E_P9k6/view?usp=sharing)
 
 # Features offered
 - Signup functionality :
